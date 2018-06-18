@@ -2,8 +2,8 @@
 
 let friends = [
     {
-        "name":"Ahmed",
-        "photo":"../pictures/download.jpg",
+        "name":"Jordan",
+        "photo":"https://placeimg.com/640/480/people/grayscale",
         "scores":[
             1,
             1,
@@ -18,8 +18,8 @@ let friends = [
           ]
       },
       {
-        "name":"Sabrina",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name":"Blake",
+        "photo":"https://placeimg.com/640/479/people/grayscale",
         "scores":[
             2,
             2,
@@ -34,8 +34,8 @@ let friends = [
           ]
       },
       {
-        "name":"Ahmed3",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name":"Payton",
+        "photo":"https://placeimg.com/640/478/people/grayscale",
         "scores":[
             3,
             3,
@@ -50,8 +50,8 @@ let friends = [
           ]
       }, 
       {
-        "name":"Ahmed4",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name":"Taylor",
+        "photo":"https://placeimg.com/640/476/people/grayscale",
         "scores":[
             4,
             4,
@@ -66,8 +66,8 @@ let friends = [
           ]
       }, 
       {
-        "name":"Ahmed5",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name":"Elliot",
+        "photo":"https://placeimg.com/640/477/people/grayscale",
         "scores":[
             5,
             5,
