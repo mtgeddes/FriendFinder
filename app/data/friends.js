@@ -3,7 +3,7 @@
 let friends = [
     {
         "name":"Ahmed",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"../pictures/download.jpg",
         "scores":[
             1,
             1,
@@ -18,7 +18,7 @@ let friends = [
           ]
       },
       {
-        "name":"Ahmed2",
+        "name":"Sabrina",
         "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
         "scores":[
             2,
