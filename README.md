@@ -1,2 +1,9 @@
 # FriendFinder
-This app demonstrates api and html routing along with internal logic to find best match based on user selections.
+This application demonstrates both API and HTML routing along with internal JavaScript logic to find best match based on user selections.
+
+###[Link to Active App on Heroku] (https://friendfinder-8080.herokuapp.com/)
+
+
+##Demo Below
+
+![Demo](/README-Assets/demo.gif)
