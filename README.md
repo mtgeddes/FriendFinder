@@ -7,5 +7,5 @@ This application demonstrates both API and HTML routing along with internal Java
 ##Demo Below
 
 <kdb>
-![Demo](/README-Assets/demo.gif)
+    <img src="/README-Assets/demo.gif">
 </kdb>
